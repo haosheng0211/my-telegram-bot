@@ -1,0 +1,42 @@
+# Git相關
+.git
+.gitignore
+
+# Python相關
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE相關
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 作業系統相關
+.DS_Store
+Thumbs.db
+
+# 日誌文件
+*.log
+
+# 測試相關
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 文檔相關
+README.md
+*.md
+
+# Docker相關
+Dockerfile*
+.dockerignore 
